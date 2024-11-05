@@ -48,3 +48,65 @@ Este enfoque permite una comprensión más profunda de cada serie-película y c�
 
 Autor: 
 **materancode**
+
+<br>
+
+## | Especificación de Actores y Operaciones
+
+### Actores
+
+* **Usuario**
+   * *Descripción:* Usuario con permiso de registrarse, hacer valoraciones y reseñas además de sugerir que se añadan películas-series.
+
+* **Equipo de gestión**
+   * *Descripción:* El equipo añade películas-series y actualiza el contenido de las películas-series.
+
+   * **Sistema**
+      * *Descripción:* El sistema realiza análisis demográfico y de datos.
+
+
+      ## Operaciones por Actor
+
+**Usuario Registrado**
+
+- i.    Crear cuenta de usuario.
+<br>
+- ii.   Iniciar sesión en la aplicación.
+
+- iii.  Editar su perfil.
+- iv.   Comentar sus opiniones y valoraciones de las películas-series.
+- v.    Enviar mensajes a otros usuarios (interacción sobre el contenido).
+- vi.   Solicitar cambio de contraseña.
+- vii.  Configurar preferencias de notificación.
+- viii.  Eliminar cuenta.
+- ix.   interacción con likes y emoticonos entre usuarios.
+
+<br>
+
+**Gestión de contenido**
+
+- i.     Cargar películas-series.
+<br>
+- ii.    Crear y editar descripción de películas-series.
+
+- iii.  Realizar encuestas a los usuarios.
+- iv.   Realizar cuestionanrios a los usuarios.
+- v.    Suspender cuenta de usuario.
+- vi.   Acceso al panel de administración.
+- vii.  Generar reportes de análisis de usuarios.
+- viii. Modificar configuraciones de la aplicación.
+
+<br>
+
+**Sistema de análisis**
+
+- i.     Recolectar datos demográficos.
+<br>
+- ii.    Segmentar datos de audiencia.
+
+- iii.   Analizar datos de audiencia para conocer tendencias.
+- iv.    Notificar usuarios.
+- v.     Notificar Gestores del contenido.
+
+
+
