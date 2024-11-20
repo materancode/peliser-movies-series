@@ -464,6 +464,8 @@ Autor:
   |Fecha | _12-11-2024_ |
 
 
+``` code
+
 
      
    ├── docs/
@@ -484,6 +486,8 @@ Autor:
    │   │   ├── Especificación actores.md
    │   │   └── Operaciones.md
    └── README.md
+
+```
 
 
 
