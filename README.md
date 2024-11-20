@@ -462,3 +462,29 @@ Autor:
   |  Notas |  __ |
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
+
+
+
+     
+   ├── docs/
+   │   ├── requisitos/
+   │   │   ├── especificacion_requisitos.md
+   │   │   ├── casos_uso.md
+   │   │   └── backlog.md
+   │   ├── diseno/
+   │   │   ├── diagramas/
+   │   │   │   ├──
+   │   │   │   ├── diagrama_secuencia.png
+   │   │   │   ├── 
+   │   │   │   ├── 
+   │   │   │   
+   │   │   └── arquitectura.md
+   │   ├── planificacion/
+   │   │   ├── Definición del proyecto.md
+   │   │   ├── Especificación actores.md
+   │   │   └── Operaciones.md
+   └── README.md
+
+
+
+
