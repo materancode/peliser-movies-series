@@ -48,7 +48,7 @@ Este enfoque permite una comprensión más profunda de cada serie-película y c�
 
 Autor: 
 **materancode**
-
+git
 <br>
 
 ## | Especificación de Actores y Operaciones
