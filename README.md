@@ -280,7 +280,7 @@ git
   |  Requerimientos | __  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
+  |Fecha | _12-11-2025_ |
 
 # Package diagrama
 
