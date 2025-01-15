@@ -109,7 +109,7 @@ git
 | Descripción  | _El usuario realiza valoraciones del contenido, realiza encuestas y tambien interactúa con otros usuarios_  |
 | Características  | _Realiza valoraciones en función de su percepción del contenido y sugiere contenido de interés_ |
 | Relaciones | _Los usuarios se relacionan entre sí._  |
-| Referencias | _Interactúa con su cuenta y con otros usuarios, sugiere contenido y realiza valoraciones y reseñas del contenido_ |   
+| Referencias | _Interactúa con su cuenta y con otros usuarios, sugiere contenido y realiza valoraciones y reseñas del contenido_ |
 |  Notas |  _Se realiza el enfoque en el contenido que quiere ver el usuario en función de sus preferencias_ |
 | Autor  | _materancode_ |
 |Fecha | _12-11-2024_ |
@@ -144,7 +144,7 @@ git
 | Descripción  | _Genera reportes, analiza tendencias y envía notificaciones _  |
 | Características  | _Conocer tendencias, usuarios y preferencias del mismo_ |
 | Relaciones | __  |
-| Referencias | _Segmentación de datos para conocer preferencias del usuario, enviar notificaciones y analizar tendencias_ |   
+| Referencias | _Segmentación de datos para conocer preferencias del usuario, enviar notificaciones y analizar tendencias_ |
 |  Notas |  __ |
 | Autor  | _materancode_ |
 |Fecha | _12-11-2024_ |
