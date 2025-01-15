@@ -163,8 +163,8 @@ git
   | Actor  |  _Usuario_ |
   | Descripción | _Se registra en la app_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | _Buscar, ver y calificar contenido_  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -178,8 +178,8 @@ git
   | Actor  |  _Usuario_ |
   | Descripción | _Selecciona el contenido que desea ver_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _ver y calificar contenido_  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | _ver y calificar contenido_  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -194,8 +194,8 @@ git
   | Actor  |  _Usuario_ |
   | Descripción | _Dar opiniones sobre el contenido y calificarlo_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | _Buscar, ver y calificar contenido_  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -210,8 +210,8 @@ git
   | Actor  |  _Usuario_ |
   | Descripción | _Se dan opciones a seleccionar y comentarios breves para aumentar las mejoras de la app_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | _Buscar, ver y calificar contenido_  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -227,8 +227,8 @@ git
   | Actor  |  _Equipo de gestión_ |
   | Descripción | _Subir contenido_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | __  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -242,8 +242,8 @@ git
   | Actor  |  _Equipo de gestión_ |
   | Descripción | _Crear encuestas para análisis de usuario_  |
   | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
+  | Pre-condiciones | _Correo electrónico_  |
+  | Post-condiciones  | __  |
   |  Requerimientos | _Correo electrónico_  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -260,8 +260,8 @@ git
   | Actor  |  _Sistema_ |
   | Descripción | _Análisis y recopilador de datos_  |
   | Flujo básico | __ |
-  | Pre-condiciones | __  |  
-  | Post-condiciones  | __  |  
+  | Pre-condiciones | __  |
+  | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
@@ -275,8 +275,8 @@ git
   | Actor  |  _Sistema_ |
   | Descripción | _Notificar mensajes e interacciones entre usuarios, contenido nuevo para usuarios, y avisar al equipo de gestión de los reportes generados_  |
   | Flujo básico | __ |
-  | Pre-condiciones | __  |  
-  | Post-condiciones  | __  |  
+  | Pre-condiciones | __  |
+  | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
   | Autor  | _materancode_ |
