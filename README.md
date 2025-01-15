@@ -157,7 +157,7 @@ Autor:
 ## Casos de Uso Usuario
 <br>
 
-|  	CU | XX Crear Cuenta    |
+|  	CU | XX Registro    |
   |---|---|
   | Fuentes  | _Consumir contenido aportado por la app_  |
   | Actor  |  _Usuario_ |
@@ -172,82 +172,7 @@ Autor:
 
 <br>
 
-|  	CU | XX Editar perfil    |
-  |---|---|
-  | Fuentes  | _Estética_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Se selecciona la estética de preferencia_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-<br>
-
-|  	CU | XX Configurar preferencias de notificación    |
-  |---|---|
-  | Fuentes  | _Funciones de notificación_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Se selecciona la opción de preferencia_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-<br>
-
-|  	CU | XX Cambiar contraseña     |
-  |---|---|
-  | Fuentes  | _Olvidó contraseña_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Modifica contraseña autentificandose_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-<br>
-
-|  	CU | XX Eliminar cuenta     |
-  |---|---|
-  | Fuentes  | _No usar más cuenta_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _No podrá usar mas su cuenta_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | __  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-<br>
-
-|  	CU | XX  Buscar películas-series     |
-  |---|---|
-  | Fuentes  | _Buscador y librería de contenido_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Se realiza búsqueda de preferencia_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-<br>
-
-|  	CU | XX  Ver películas-series    |
+|  	CU | XX  Ver contenido   |
   |---|---|
   | Fuentes  | _Consúmo de contenido_  |
   | Actor  |  _Usuario_ |
@@ -260,24 +185,10 @@ Autor:
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
 
-<br>
-
-|  	CU | XX  Mensajes privados entre usuarios    |
-  |---|---|
-  | Fuentes  | _Chat entre usuarios_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Interacción de los usuarios en DM_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
 
 <br>
 
-|  	CU | XX  Reseñas y calificaciones   |
+|  	CU | XX  Valoran contenido  |
   |---|---|
   | Fuentes  | _Valoración del contenido_  |
   | Actor  |  _Usuario_ |
@@ -290,24 +201,10 @@ Autor:
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
 
-  <br>
-
-|  	CU | XX  Interacción con likes-emoticons  |
-  |---|---|
-  | Fuentes  | _Comentarios entre usuarios_  |
-  | Actor  |  _Usuario_ |
-  | Descripción | _Se dan likes-emoticons a los comentarios_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | _Buscar, ver y calificar contenido_  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
 
   <br>
 
-|  	CU | XX  Responde encuestas  |
+|  	CU | XX  Realiza encuestas  |
   |---|---|
   | Fuentes  | _Calificaciones del contenido y aportación de mejoras_  |
   | Actor  |  _Usuario_ |
@@ -337,25 +234,9 @@ Autor:
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
 
-  <br>
+<br>
 
-|  	CU | XX Editar descripción de películas-series   |
-  |---|---|
-  | Fuentes  | _Presentaciónes del contenido para el usuario_  |
-  | Actor  |  _Equipo de gestión_ |
-  | Descripción | _Edición de las descripciones del contenido_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-
-  
-  <br>
-
-|  	CU | XX Realiza encuestas a usuarios   |
+|  	CU | XX Crear encuestas   |
   |---|---|
   | Fuentes  | _Mejorar contenido de usuario_  |
   | Actor  |  _Equipo de gestión_ |
@@ -368,59 +249,12 @@ Autor:
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
   
-
-<br>
-
-|  	CU | XX Suspende cuenta usuario   |
-  |---|---|
-  | Fuentes  | _Sancionar usuarios que no cumplan la política de la app_  |
-  | Actor  |  _Equipo de gestión_ |
-  | Descripción | _Se eliminan o suspenden cuentas de usuario_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
   
-  <br>
-
-|  	CU | XX Acceso al panel de administración   |
-  |---|---|
-  | Fuentes  | _Configuraciónes_  |
-  | Actor  |  _Equipo de gestión_ |
-  | Descripción | _Configuraciones no-definidas_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-  
-
-<br>
-
-|  	CU | XX Generar reportes de análisis de datos   |
-  |---|---|
-  | Fuentes  | _Datos segmentados del sistema_  |
-  | Actor  |  _Equipo de gestión_ |
-  | Descripción | _Cada cierto tiempo generan reportes_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | _Correo electrónico_  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | _Correo electrónico_  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
-  
-
 
    ## Casos de Uso Sistema
 <br>
 
-|  	CU | XX Segmentar datos    |
+|  	CU | XX Recolecta datos de segmentación    |
   |---|---|
   | Fuentes  | _Segmentación_  |
   | Actor  |  _Sistema_ |
@@ -448,17 +282,6 @@ Autor:
   | Autor  | _materancode_ |
   |Fecha | _12-11-2024_ |
 
-   <br>
+# Package diagrama
 
-|  	CU | XX Análisis de tendencias    |
-  |---|---|
-  | Fuentes  | _Analizar datos_  |
-  | Actor  |  _Sistema_ |
-  | Descripción | _Datos en tendencias analizar y recopilar información_  |
-  | Flujo básico | __ |
-  | Pre-condiciones | __  |  
-  | Post-condiciones  | __  |  
-  |  Requerimientos | __  |
-  |  Notas |  __ |
-  | Autor  | _materancode_ |
-  |Fecha | _12-11-2024_ |
+<img src="imagenes/packagepeliser.drawio.png">
